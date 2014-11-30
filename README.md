@@ -1,4 +1,4 @@
 SparkR
 ======
 
-This is a repository for Apache SparkR
+This is a repository for my Apache SparkR code
